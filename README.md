@@ -13,7 +13,7 @@ $ pip3 install uvicorn[standard]
 uvicorn main:app --reload
 ```
 
-Open swagger (http://127.0.0.1:8000/docs) to check available functionality
+Open swagger (http://127.0.0.1:8000/docs) to check available functionality!
 
 # Test
 
